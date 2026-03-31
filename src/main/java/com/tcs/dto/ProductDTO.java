@@ -1,7 +1,7 @@
 package com.tcs.dto;
 
 import jakarta.validation.constraints.Min;
-import jakarta.validation.constraints.NotBlank;nBBVJDV,AVKVMDNVVDABBFDESAZB
+import jakarta.validation.constraints.NotBlank;
 
 public class ProductDTO {
 	private Long id;
