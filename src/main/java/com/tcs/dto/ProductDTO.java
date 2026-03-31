@@ -9,7 +9,7 @@ public class ProductDTO {
 	private String name;
 
 	@Min(value = 1, message = "Price must be greater than 0")
-	private Double price;kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+	private Double price;
 
 	public Long getId() {
 		return id;
